@@ -1,0 +1,19 @@
+# Local build outputs and editor state
+dist/
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Local drafts, logs, generated test reports and temporary documents
+*.log
+draft.rtf
+v2_*.txt
+~$*
+*.tmp
+*.temp
+*.bak
+Thumbs.db
+Desktop.ini
